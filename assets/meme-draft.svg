@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" role="img" aria-labelledby="title desc">
+  <title id="title">13 years waiting, 13% downloaded</title>
+  <desc id="desc">A make.fun ghost rides passenger in a neon Vice City scene while the GTA 6 download crawls at thirteen percent.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#11122e"/><stop offset=".52" stop-color="#47265e"/><stop offset="1" stop-color="#f05a91"/></linearGradient>
+    <linearGradient id="road" x2="0" y2="1"><stop stop-color="#272344"/><stop offset="1" stop-color="#101423"/></linearGradient>
+    <linearGradient id="car" x2="0" y2="1"><stop stop-color="#4ee3db"/><stop offset="1" stop-color="#148caa"/></linearGradient>
+    <linearGradient id="glass" x2="0" y2="1"><stop stop-color="#ff8fb3"/><stop offset="1" stop-color="#32264c"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="11" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="1200" fill="#111323"/>
+  <rect x="26" y="26" width="1148" height="1148" rx="34" fill="url(#sky)" stroke="#f5e6ff" stroke-opacity=".55" stroke-width="3"/>
+  <circle cx="930" cy="378" r="124" fill="#ffbe88" opacity=".88" filter="url(#glow)"/>
+  <path d="M26 645 Q235 570 412 635 T790 620 T1174 613 V940 H26Z" fill="#2b2144" opacity=".8"/>
+  <g stroke="#f78cb2" stroke-width="7" opacity=".9">
+    <path d="M125 653V468h120v185M145 468l40-65 40 65M148 503h74M148 538h74M148 573h74" fill="#382651"/>
+    <path d="M270 650V520h102v130M288 520v-51h66v51M290 557h62M290 590h62" fill="#29314d"/>
+    <path d="M396 651V430h131v221M420 430v-58h83v58M419 470h86M419 509h86M419 548h86M419 587h86" fill="#34294f"/>
+    <path d="M548 651V505h107v146M568 505v-43h67v43M570 542h63M570 579h63" fill="#222943"/>
+    <path d="M677 651V454h124v197M699 454v-61h80v61M699 492h80M699 531h80M699 570h80M699 609h80" fill="#392750"/>
+    <path d="M824 651V516h111v135M846 516v-49h67v49M846 553h67M846 590h67" fill="#27334c"/>
+    <path d="M958 651V446h139v205M980 446v-57h95v57M981 483h92M981 522h92M981 561h92M981 600h92" fill="#3d2850"/>
+  </g>
+  <g fill="#ffd16e" opacity=".95">
+    <path d="M164 520h12v15h-12zm40 0h12v15h-12zm-40 34h12v15h-12zm40 0h12v15h-12z"/>
+    <path d="M444 489h14v16h-14zm42 0h14v16h-14zm-42 42h14v16h-14zm42 0h14v16h-14zm-42 42h14v16h-14zm42 0h14v16h-14z"/>
+    <path d="M724 489h14v17h-14zm42 0h14v17h-14zm-42 42h14v17h-14zm42 0h14v17h-14zm-42 42h14v17h-14zm42 0h14v17h-14z"/>
+    <path d="M1002 480h14v17h-14zm46 0h14v17h-14zm-46 42h14v17h-14zm46 0h14v17h-14zm-46 42h14v17h-14zm46 0h14v17h-14z"/>
+  </g>
+  <g fill="none" stroke="#191b31" stroke-linecap="round">
+    <path d="M92 731q28-142 17-261" stroke-width="20"/>
+    <path d="M109 468q-74-52-91-23 49-7 90 35-53-78-82-76 45 32 83 77-18-74-55-92 29 43 56 100 13-87 50-100-26 28-43 107 55-64 87-57-36 13-94 66" stroke-width="13"/>
+    <path d="M1095 725q-25-145-12-248" stroke-width="19"/>
+    <path d="M1083 480q-67-48-90-17 48-5 87 30-47-68-78-65 42 30 79 68-17-68-51-86 27 39 52 94 12-79 47-92-25 25-41 98 50-58 81-52-33 12-87 60" stroke-width="12"/>
+  </g>
+  <path d="M26 760Q596 690 1174 763V1174H26Z" fill="url(#road)"/>
+  <path d="M170 860h185M850 849h232" stroke="#f55dba" stroke-width="9" opacity=".65" filter="url(#glow)"/>
+  <path d="M590 804l-20 73m54-72-7 73m76-71 8 74" stroke="#fff3bd" stroke-width="12" stroke-linecap="round" opacity=".8"/>
+  <rect x="75" y="82" width="1050" height="220" rx="26" fill="#101322" fill-opacity=".9" stroke="#f566bd" stroke-width="4"/>
+  <text x="600" y="172" fill="#fff8ee" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="900" letter-spacing="2">13 YEARS WAITING.</text>
+  <text x="600" y="253" fill="#ffcf63" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="900" letter-spacing="2">13% DOWNLOADED.</text>
+  <g transform="translate(0 30)">
+    <path d="M204 847l60-101q20-34 67-41l262-31q55-7 92 22l117 87 115 20q40 7 54 43l17 77H183l-3-39q-2-26 24-37z" fill="url(#car)" stroke="#101322" stroke-width="17" stroke-linejoin="round"/>
+    <path d="M332 732l249-30q37-5 65 17l70 57H288z" fill="url(#glass)" stroke="#111323" stroke-width="12" stroke-linejoin="round"/>
+    <path d="M656 720q17-5 33 8l74 48H669z" fill="#32294c" stroke="#111323" stroke-width="12"/>
+    <path d="M601 718v58" stroke="#111323" stroke-width="12"/>
+    <text x="575" y="856" fill="#102039" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900">make.fun</text>
+    <path d="M226 842h66M905 835h72" stroke="#ffedb0" stroke-width="21" stroke-linecap="round" filter="url(#glow)"/>
+    <path d="M217 898h744" stroke="#f658be" stroke-width="10" opacity=".8"/>
+    <circle cx="344" cy="910" r="61" fill="#141726" stroke="#7988a2" stroke-width="12"/><circle cx="344" cy="910" r="27" fill="#ffcc66"/>
+    <circle cx="858" cy="910" r="61" fill="#141726" stroke="#7988a2" stroke-width="12"/><circle cx="858" cy="910" r="27" fill="#ffcc66"/>
+    <rect x="425" y="635" width="118" height="42" rx="12" fill="#ffd05f" stroke="#191b31" stroke-width="8"/>
+    <text x="484" y="665" fill="#192039" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="900">TAXI</text>
+    <path d="M724 740v-77q0-76 73-76t73 76v71q-14-22-27 0-14 24-29 0-16-22-31 0-15 23-30 0-15-22-29 6z" fill="#fffdf8" stroke="#171629" stroke-width="12" stroke-linejoin="round"/>
+    <path d="M766 626l8 13 13 8-13 8-8 13-8-13-13-8 13-8zM817 626l8 13 13 8-13 8-8 13-8-13-13-8 13-8z" fill="#171629"/>
+    <path d="M865 678q25-14 32 8 5 18-15 24" fill="none" stroke="#171629" stroke-width="11" stroke-linecap="round"/>
+    <circle cx="916" cy="700" r="48" fill="#ed3aaf" stroke="#171629" stroke-width="9"/>
+    <path d="M916 671l8 19 20 1-15 13 5 20-18-11-18 11 5-20-15-13 20-1z" fill="#fff8e9"/>
+    <path d="M822 704q20 5 34 20" fill="none" stroke="#171629" stroke-width="9" stroke-linecap="round"/>
+  </g>
+  <rect x="266" y="1005" width="668" height="88" rx="44" fill="#15182b" stroke="#f46fbc" stroke-width="4"/>
+  <text x="600" y="1062" fill="#fff4dc" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800" letter-spacing="3">VICE CITY / LAUNCH NIGHT</text>
+  <text x="600" y="1136" fill="#a8adcb" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" letter-spacing="2">A FAN-MADE GTA 6 MEME</text>
+</svg>
