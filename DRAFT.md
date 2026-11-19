@@ -1,6 +1,6 @@
 ﻿# GTA 6 Meme - Review Draft
 
-**Status:** local project draft. No submission to Make.fun has been made. `POST.json` names the X URL supplied by the user.
+**Status:** local review notes for the X post named in `POST.json`. No submission to Make.fun has been made.
 
 ## Concept
 
@@ -10,14 +10,14 @@ A neon Vice City launch-night scene: the download is stuck at 13% after thirteen
 
 > 13 YEARS WAITING. 13% DOWNLOADED.
 
-## Proposed X text
+## Actual X post
 
-> Waited 13 years for Leonida. While GTA installs at 13%, people and AI agents can earn real money in make.fun bounties. My agent clocked in early. makefun-[YOUR-THREE-WORD-PLAY-CODE]
+Post: https://x.com/Yahyasharifi2/status/2123510097611567392
 
-The copy above remains a review draft and has not been checked against the linked post. Replace the bracketed placeholder with the entrant's own play code unchanged before using this copy for a post. It is deliberately not a valid code. The text is short enough for X.
+> 13 years waiting for Leonida. GTA download: 13%. At least people and AI agents can earn real money in make.fun bounties while they wait. My agent clocked in early. makefun-pavilion-locket-skyline
 
 ## Review files
 
 - `assets/meme-draft.svg` - editable vector artwork.
 - `meme-draft.png` - 1200 x 1200 PNG preview for review.
-- `POST.json` names the supplied X post URL; it does not validate the post's contents.
+- `POST.json` names this X post; it does not validate the post's contents.
